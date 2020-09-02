@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+list/
+imagenet_synset_list.txt
+imagenet/
